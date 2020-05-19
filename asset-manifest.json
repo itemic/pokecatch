@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pokecatch/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pokecatch/static/js/main.e316033a.chunk.js",
+    "main.js.map": "/pokecatch/static/js/main.e316033a.chunk.js.map",
+    "runtime-main.js": "/pokecatch/static/js/runtime-main.e619edd2.js",
+    "runtime-main.js.map": "/pokecatch/static/js/runtime-main.e619edd2.js.map",
+    "static/js/2.dfb938e6.chunk.js": "/pokecatch/static/js/2.dfb938e6.chunk.js",
+    "static/js/2.dfb938e6.chunk.js.map": "/pokecatch/static/js/2.dfb938e6.chunk.js.map",
+    "index.html": "/pokecatch/index.html",
+    "precache-manifest.7d04ec1ae43988238c4225095fb4e8c4.js": "/pokecatch/precache-manifest.7d04ec1ae43988238c4225095fb4e8c4.js",
+    "service-worker.js": "/pokecatch/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/pokecatch/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dfb938e6.chunk.js.LICENSE.txt": "/pokecatch/static/js/2.dfb938e6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pokecatch/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e619edd2.js",
+    "static/js/2.dfb938e6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e316033a.chunk.js"
+  ]
+}
